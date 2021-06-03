@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings at the King's-Bench-Bar, Westminster, against Titus Oates on Saturday, the 16th of this instant May, 1685 : containing what remarkably hapned on his receiving sentence upon his being twice convicted of perjury : together with the express particulars of the said sentence.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55940</idno><idno type="EEBO-CITATION">15032181</idno>
+  <idno type="VID">103068</idno>
+  <idno type="EEBO-PROQUEST">2240937553</idno>
+  
+            <idno type="STC">Wing P3561A</idno>
+            <idno type="STC">ESTC R35126</idno>
+            <idno type="OCLC">15032181</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings at the King's-Bench-Bar, Westminster, against Titus Oates on Saturday, the 16th of this instant May, 1685 : containing what remarkably hapned on his receiving sentence upon his being twice convicted of perjury : together with the express particulars of the said sentence.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alex Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705 --  Trials, litigation, etc.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="opener">
+            <pb n="1" facs="tcp:103068:1"/>
+            <head>THE PROCEEDINGS AT THE KING's BENCH-BAR, <hi>WESTMINSTER,</hi> Against TITUS OATS, On <hi>Saturday,</hi> the 16th. of this Instant <hi>May,</hi> 1685. Containing What Remarkably hapned on his Receiving Sen<g ref="char:EOLhyphen"/>tence upon his being Twice Convicted of PERJURY. Together With the express Particulars of the said SENTENCE.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Entred according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="court_proceedings">
+            <p>
+               <hi>TItus Oats</hi> being Tryed upon Two several Informations for PERJURY, on the 8th. and 9th. Instant, at the King's Bench-Bar, <hi>Westminster,</hi> and the Verdicts passing against him, after a full Hearing, he made several Objections, and prayed, he might have Councel assigned him, to debate in Point of Law such Errors as were convenient to be assigned upon the First Information, the Import of which Infor<g ref="char:EOLhyphen"/>mation was:</p>
+            <q>That he had sworn himself to be at a Consult of the Fathers, at the <hi>White-Horse</hi> Tavern in the <hi>Strand,</hi> on the <hi>24th.</hi> of <hi>April, 1678.</hi> And that there they came to a Resolve upon the Death of His late most Sacred Majesty King <hi>Charles II.</hi> And that he the said <hi>Titus Oats,</hi> upon their separating into small Companies, carried the Resolve in writing from Chamber to Chamber, to be Signed, and saw it Signed by <hi>Ireland, Fenwick,</hi> and <hi>Gawin;</hi> when, in truth, he was not there at that time, nor carried any Writing to that Purport to be Signed, <hi>&amp;c.</hi>
+            </q>
+            <p>To this Request of his, the Court consented; and upon a second Request, gave him time till <hi>Saturday,</hi> the 16th. of <hi>May,</hi> 1685. to consider it, Council being for that purpose assigned him; when, about Ten in the morning of the day specified, under the conduct of a strong Guard, he was brought to the Bar.</p>
+            <pb n="2" facs="tcp:103068:2"/>
+            <p>When after some Motions, Mr. <hi>Attorney General</hi> demanded Judgment on the behalf of the King, against the Prisoner? Upon which, he was asked, What he could say, why the Judg<g ref="char:EOLhyphen"/>ment of the Court should not pass upon him? To which he answered, <hi>that he could not get the Records till</hi> Thursday <hi>last, and therefore was not prepared as he ought, praying that he might have fur<g ref="char:EOLhyphen"/>ther time till</hi> Munday: But was answered, that he had in that kind been indulged already, more than usual; for that the Course of the Court was, to proceed in four days after Verdict: Then he desired Mr. <hi>Wallop,</hi> Counsellor at Law, might Speak on his behalf, as to the Errors in Stay of Judgment; but he replied, he had nothing Material to offer: Whereupon the Prisoner said, <hi>he had delivered a paper relating thereto, to Mr.</hi> Attorney General; which was produced, and Read, specifying, <hi>that a person Swearing for the King in case of High-Treason, ought not to be brought upon his Tryal for Perjury,</hi> &amp;c.</p>
+            <p>That the word <hi>Signat,</hi> in the first Information, should, according to the Tenor, have been <hi>Signant.</hi> He Objected something about the Indictment being laid in <hi>London;</hi> as likewise Con<g ref="char:EOLhyphen"/>sistence of the whole Matter, on which, the Informations upon which he stood Convicted, was Grounded, <hi>&amp;c.</hi> was only in Point of Time. To which he was Answered, That it was Lawful to Proceed against any Person notwithstanding his Giving Evidence for the King, if there were pal<g ref="char:EOLhyphen"/>pable Demonstrations of his Forswearing himself, especially in a Case of so High a Concern; for that in all Cases Criminal, as to Life, <hi>&amp;c.</hi> the Evidence Swore for the King, unless in Case of an Appeal, <hi>&amp;c.</hi>
+            </p>
+            <p>That if a man might be Convicted of Perjury, for swearing the stealing of a Horse, or the like, when the contrary appeared; much more in case of Forswearing, in a matter of so great Consequence.</p>
+            <p>That as for the mistake of the Word, that was not material; for it did not excuse him from being perjured.</p>
+            <p>As to the point of Time, it was wonderfully material in this Case, as well for the disproving the Treason, as that he was Forsworn; for if he was not there at the Time he swore to, he was not privy to, nor knowing that any such thing was done.</p>
+            <p>That if <hi>Ireland</hi> was in <hi>Staffordshire</hi> at that Time he swore him to be at <hi>London, &amp;c.</hi> he could not be guilty of Treason personally in <hi>Middlesex,</hi> as he, (meaning the Prisoner) had sworn, and therefore there appeared nothing for him that might delay the Judgment that was to pass upon him on so fair and full a Conviction, <hi>&amp;c.</hi>
+            </p>
+            <p>Thus, or to this effect, he being answered, and his Paper over-ruled, the Right Honourable the Lord Chief Justice proceeded to declare the Heinousness of the Crime, saying, It was for<g ref="char:EOLhyphen"/>merly, by the Law of this Land, punishable with Death. And after that, being somewhat mo<g ref="char:EOLhyphen"/>derated, the Penalty was, to have the Parties Tongue cut out. And being yet farther taken into Consideration, the punishment was left to the discretion of the Court. So they proceeded not to Life or Member, notwithstanding his Lordship said he had Consulted all the Judges of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that they were unanimously of opinion, that the power was in the Court to proceed to any Sentence under that restriction; and having in a most Emphatical Speech, from point to point, related the matter at large, his Lordship left the Pronounciation of the Sentence to Mr. Justice <hi>Withens,</hi> who told the Prisoner, that his Nature, was Compassionate, and that he delights not in passing Sentence on his fellow Creatures; yet in case of such a Crime, he must confess he did it without remorse, and having further expressed himself in detestation of the Pri<g ref="char:EOLhyphen"/>soners offence, and Eloquently discoursed it at large, he was pleased to Pronounce the fol<g ref="char:EOLhyphen"/>lowing Sentence as the Judgment of the Court, <hi>viz.</hi>
+            </p>
+            <p>That <hi>Titus Oats</hi> should be Fined 1000 Mark upon each Conviction.</p>
+            <p>That on <hi>Munday</hi> next, he walk about <hi>Westminster-hall,</hi> with a Paper upon his Forehead, men<g ref="char:EOLhyphen"/>tioning his Crime: And afterward stripped of his Canonical Habit, Stand Upon and In the Pillory before the Hall-Gate, between the hours of Eleven and One, for the space of an hour to Stand.</p>
+            <p>The <hi>Tuesday</hi> following, for the space of an hour, before the <hi>Royal Exchange.</hi>
+            </p>
+            <p>On <hi>Wednesday,</hi> to be Publickly whipped from <hi>Aldgate</hi> to <hi>Newgate.</hi>
+            </p>
+            <p>On <hi>Fryday</hi> to be whipped from <hi>Newgate</hi> to <hi>Tyburn.</hi>
+            </p>
+            <p>To stand in the Pillory the Ninth of <hi>August</hi> next, at <hi>Westminster.</hi>
+            </p>
+            <p>The Tenth at <hi>Charing-cross.</hi>
+            </p>
+            <p>The Eleventh, at <hi>Temple-Bar.</hi>
+            </p>
+            <p>The Second of <hi>September,</hi> at the <hi>Royal Exchange.</hi>
+            </p>
+            <p>The 24th. of <hi>April</hi> at <hi>Tyburn,</hi> with his Face to the Gallows.</p>
+            <p>The last five times standing in the Pillory, to be performed Annually, during his Life, and like<g ref="char:EOLhyphen"/>wise imprisoned for Life. Whereupon he was taken from the Bar.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Alex. Banks.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
